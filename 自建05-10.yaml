@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   自用:
-    url: "https://sub.testss.top/66WJOL0PCiXKW7XyuqFD/download/collection/%E9%A3%9E%E5%85%94%2Bhysteria?target=ClashMeta"
+    url: "https://sub.testss.top/66WJOL0PCiXKW7XyuqFD/download/collection/FEITU%2Bhysteria?target=ClashMeta"
     type: http
     interval: 86400
     health-check:
